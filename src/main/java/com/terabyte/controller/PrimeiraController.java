@@ -1,4 +1,4 @@
-package com.terabyte.primeiro_projeto_spring_boot;
+package com.terabyte.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
